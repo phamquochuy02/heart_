@@ -2,7 +2,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #0f7ce9
+	background: #3b4146
 }
 
 .box {
@@ -26,7 +26,7 @@ body {
 #pinkboard:before, #pinkboard:after {
 	content: '';
 	position: absolute;
-	background: #493ee9;
+	background: #c23b41;
 	width: 100px;
 	height: 160px;
 	border-top-left-radius: 50px;
